@@ -49,6 +49,19 @@ http://localhost:5000/register - Register user (POST)
 - NPM
 - Local Storage
 
+#### Note:
+We created our own Json server so if you want to run our code then please read the instructions below
+
+
+## Instructions to Run the Code 
+
+- Clone my repository `https://github.com/tarun10001/Ajio-Clone`
+- Open that code in your VS code `home.html`
+- Open the `home.html` on Live server
+- Open the new terminal in your VS Code and run the command `node server.js`
+- It will show a message that `JSON Server is running on port 5000`
+- Then you can Navigate through other pages from Landing page like `menStyles.html`, `womenStyles.html` etc.
+
 ## Demo
 
 - [Presentation Demo](https://drive.google.com/file/d/1kCMjSOGAlhInP2M8voVntsld4iQtOrUE/view)
